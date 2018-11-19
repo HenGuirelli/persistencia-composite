@@ -1,0 +1,13 @@
+<Raiz>
+    <Tag1>
+        conteudo tag 1
+    </Tag1>
+    <Tag2>
+        conteudo tag 2
+    </Tag2>
+    <Tag3>
+        <Tag4>
+            conteudo 4
+        </Tag4>
+    </Tag3>
+</Raiz>
